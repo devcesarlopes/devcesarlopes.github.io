@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/devcesarlopes/devcesarlopes.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/devcesarlopes/devcesarlopes.github.io/static/js/main.6820a481.js",
-    "static/js/787.32040fd5.chunk.js": "/devcesarlopes/devcesarlopes.github.io/static/js/787.32040fd5.chunk.js",
-    "index.html": "/devcesarlopes/devcesarlopes.github.io/index.html",
-    "main.073c9b0a.css.map": "/devcesarlopes/devcesarlopes.github.io/static/css/main.073c9b0a.css.map",
-    "main.6820a481.js.map": "/devcesarlopes/devcesarlopes.github.io/static/js/main.6820a481.js.map",
-    "787.32040fd5.chunk.js.map": "/devcesarlopes/devcesarlopes.github.io/static/js/787.32040fd5.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.6dae18d3.js",
+    "static/js/787.32040fd5.chunk.js": "/static/js/787.32040fd5.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.6dae18d3.js.map": "/static/js/main.6dae18d3.js.map",
+    "787.32040fd5.chunk.js.map": "/static/js/787.32040fd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6820a481.js"
+    "static/js/main.6dae18d3.js"
   ]
 }
