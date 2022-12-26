@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa40d99b.css",
-    "main.js": "/static/js/main.d8c8c28e.js",
+    "main.css": "/static/css/main.452ddd6a.css",
+    "main.js": "/static/js/main.3263698e.js",
     "static/js/787.32040fd5.chunk.js": "/static/js/787.32040fd5.chunk.js",
     "static/media/profile.png": "/static/media/profile.7392c594d6958c427242.png",
-    "static/media/simc40.png": "/static/media/simc40.08be0caa52a0150f6db7.png",
     "static/media/laila-medium.ttf": "/static/media/laila-medium.d982a5b323e265b8777a.ttf",
     "static/media/brand-gif.gif": "/static/media/brand-gif.78dd357129e85a80a915.gif",
-    "static/media/phone.png": "/static/media/phone.e39e3d2ef9e1dfdcdce7.png",
-    "static/media/macpc.png": "/static/media/macpc.2749d16786d182c0e738.png",
-    "static/media/tablet.png": "/static/media/tablet.a01646aeab7f2b6dabcb.png",
+    "static/media/simc40.png": "/static/media/simc40.3efc952a09899232beb4.png",
+    "static/media/phone.png": "/static/media/phone.4c401b3c77918dda6e15.png",
     "static/media/museomoderno-black.ttf": "/static/media/museomoderno-black.c200591179fea2d1db7e.ttf",
-    "static/media/simc40phone.png": "/static/media/simc40phone.671b5c168a48b402eafe.png",
-    "static/media/simc40tablet.png": "/static/media/simc40tablet.89443594506fc9f2626c.png",
+    "static/media/macpc.png": "/static/media/macpc.b6006e6c649565fc2850.png",
+    "static/media/tcl-reader.png": "/static/media/tcl-reader.3ef98f3bf2f2728fbbd5.png",
+    "static/media/tablet.png": "/static/media/tablet.d2b747212ac31652245d.png",
+    "static/media/simc40phone.png": "/static/media/simc40phone.6dee2c1bdc7fc14bcf89.png",
     "static/media/logo-no-background.svg": "/static/media/logo-no-background.894db07e2d8e4b0a0008d25187a2e61c.svg",
     "static/media/logo-no-background-white.svg": "/static/media/logo-no-background-white.2336282f03c23f222a2df6cad3c9e9f1.svg",
     "static/media/react-js-icon.svg": "/static/media/react-js-icon.88e96ba117bc3a6aedff06c8b0f4e316.svg",
@@ -21,12 +21,12 @@
     "static/media/stackoverflow.svg": "/static/media/stackoverflow.623087f8cf666c88c751db7ee2b6939d.svg",
     "static/media/gmail-circle.svg": "/static/media/gmail-circle.b2c35c32b3a3039114271262f44ee04b.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.27a3f479ca1bbb0ceef19e395081fb94.svg",
-    "main.aa40d99b.css.map": "/static/css/main.aa40d99b.css.map",
-    "main.d8c8c28e.js.map": "/static/js/main.d8c8c28e.js.map",
+    "main.452ddd6a.css.map": "/static/css/main.452ddd6a.css.map",
+    "main.3263698e.js.map": "/static/js/main.3263698e.js.map",
     "787.32040fd5.chunk.js.map": "/static/js/787.32040fd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa40d99b.css",
-    "static/js/main.d8c8c28e.js"
+    "static/css/main.452ddd6a.css",
+    "static/js/main.3263698e.js"
   ]
 }
